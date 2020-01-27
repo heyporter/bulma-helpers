@@ -1,5 +1,5 @@
 {
-  "name": "bulma-helpers",
+  "name": "@heyporter/bulma-helpers",
   "version": "0.3.7",
   "description": "Library with missing Functional / Atomic CSS classes for Bulma framework.",
   "main": "bulma-helpers.sass",
